@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskCalculator", "DeskCalculator.csproj", "{2A5B7202-7AD8-4EA1-9E12-2ECC0CF5A14F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskCalculator2", "..\DeskCalculator2\DeskCalculator2.csproj", "{90431F26-1D25-4701-A79B-262647E94728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A5B7202-7AD8-4EA1-9E12-2ECC0CF5A14F}.Debug|x86.ActiveCfg = Debug|x86
+		{2A5B7202-7AD8-4EA1-9E12-2ECC0CF5A14F}.Debug|x86.Build.0 = Debug|x86
+		{2A5B7202-7AD8-4EA1-9E12-2ECC0CF5A14F}.Release|x86.ActiveCfg = Release|x86
+		{2A5B7202-7AD8-4EA1-9E12-2ECC0CF5A14F}.Release|x86.Build.0 = Release|x86
+		{90431F26-1D25-4701-A79B-262647E94728}.Debug|x86.ActiveCfg = Debug|x86
+		{90431F26-1D25-4701-A79B-262647E94728}.Debug|x86.Build.0 = Debug|x86
+		{90431F26-1D25-4701-A79B-262647E94728}.Release|x86.ActiveCfg = Release|x86
+		{90431F26-1D25-4701-A79B-262647E94728}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
