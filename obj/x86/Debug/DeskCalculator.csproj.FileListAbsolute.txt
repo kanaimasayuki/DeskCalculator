@@ -1,0 +1,9 @@
+D:\VC#Project\DeskCalculator\bin\Debug\DeskCalculator.exe
+D:\VC#Project\DeskCalculator\bin\Debug\DeskCalculator.pdb
+D:\VC#Project\DeskCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VC#Project\DeskCalculator\obj\x86\Debug\DeskCalculator.Form1.resources
+D:\VC#Project\DeskCalculator\obj\x86\Debug\DeskCalculator.Properties.Resources.resources
+D:\VC#Project\DeskCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VC#Project\DeskCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VC#Project\DeskCalculator\obj\x86\Debug\DeskCalculator.exe
+D:\VC#Project\DeskCalculator\obj\x86\Debug\DeskCalculator.pdb
